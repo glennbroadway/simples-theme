@@ -29,7 +29,6 @@ contact_settings:
   send_button_text: 'Send Message'
 
 social_settings:
-  envelope_url: 'mailto:glennbroadway@gmail.com'
   facebook_url: 'https://www.facebook.com/glennbroadway'
   twitter_url: 'https://twitter.com/glennbroadway'
   instagram_url: 'https://instagram.com/glennbroadway'
